@@ -1,0 +1,2 @@
+# stud
+Repository for university
